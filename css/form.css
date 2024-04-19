@@ -1,0 +1,46 @@
+body{
+    padding:0px;
+    margin: 0px;
+    scrollbar-width: none;
+    position: relative;
+    background: url('../images/bg3.jpg') no-repeat center center fixed;
+    background-size: cover;
+   
+    
+}
+
+.formSection{
+    margin: 20px auto;
+    height: 100%;
+    width: 400px; 
+}
+
+.informPage{
+    display: block;
+    background-color: azure;
+    height: 100%;
+    border-radius:8px;
+    border-color: rgb(245, 242, 242);
+    width: 100%;
+    padding: 20px;
+
+    
+}
+
+.lblTitle{
+    margin-left: 40px;
+}
+
+.lblTitle, .name, .txtName, .txtPhone, .lblMail, .email, .lblAge, .txtAge, .lblDiscribe, .occupation, .lblComment, .txtArea, .btnSubmit{
+    display:block;
+    padding-top:8px;
+    width: 100%;
+}
+.btnSubmit{
+    background-color: black;
+    color:aliceblue;
+    border-style: 7px;
+    border-radius: 4px;
+    font-size: 15px;
+    margin-bottom: 5px;
+}
