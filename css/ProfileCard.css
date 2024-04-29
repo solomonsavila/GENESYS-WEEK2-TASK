@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color:black;
+    text-align: center;
+}
+
+.profileCard{
+    position: relative;
+    height: 730px;
+    width: 500px;
+    background-image: url(../images/bg1.jpeg);
+    margin: auto;
+    margin-top: 20px;
+    opacity: 0.89;
+    padding-top:50px;
+    border-radius: 25px;
+    text-align: center;
+}
+
+.passportSection{
+    height: 240px;
+    width: 240px;
+    margin: auto;
+    background-color: aliceblue;
+    border-radius: 50%;
+    border-width: 6px;
+    border-style: solid;
+    color: rgb(232, 248, 0)
+}
+.imgProfilecard{
+    height: 230px;
+    width: 230px;
+    border-radius: 50%;
+}
+
+.nameSection{
+    width:300px;
+    margin: auto;
+    background: none;
+}
+
+.ProfileName{
+    color: rgb(232, 248, 0);
+    background: none;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 15px;
+   
+}
+.JobTitle{
+    background: none;
+    color:rgb(208, 231, 246);
+    font-style: italic;
+    font-size: 28px;
+    text-align: center;
+}
+
+.detailedSection{
+    height: 250px;
+    width: 430px;
+    background-color: rgb(218, 218, 212);
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 25px;
+    
+}
+.infoDetailed{
+    background: none;
+    padding-top: 28px;
+    margin-top: 25px;
+    text-align: center;
+}
+
+p{
+    background: none;
+    font-size: 20px;
+    line-height: 35px;
+    text-align: justify;
+    padding: 0px 15px 0px 15px;
+}
+.socialMedia{
+    height: 200px;
+    width: 430px;
+    background: none;
+}
+
+.img{
+    height: 180px;
+    width: 180px;
+    background: none;
+}
