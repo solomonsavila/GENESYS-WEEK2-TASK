@@ -91,3 +91,25 @@ p{
     width: 180px;
     background: none;
 }
+.footerPage{
+    height: 100px;
+    height: 100px;
+    width: 500px;
+    background: none;
+    text-align: center;
+    margin-top: 10px;
+    display:flex;
+    align-content: center;
+    margin-left:30px;
+}
+
+.fbLogo, .intaLogo, .twitterLogo,.likedinLogo{
+    text-align: center;
+    background: none;
+    color: rgb(232, 248, 0);
+    font-size: 20px;
+    justify-content:space-evenly;
+    /* margin-left: 20px;
+    margin-right: 10px; */
+    margin: 30px 40px 40px 5px;
+}
